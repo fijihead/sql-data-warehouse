@@ -3,6 +3,7 @@
 ## Project Overview
 
 This mini project will provide an example of how a SQL data warehouse can be designed and built with ETL processing.
+This data warehouse is the first part to my End to End project, showcasing the life cycle of data from raw data to reporting.
 
 
 ## Objective
