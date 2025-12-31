@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project will provide an example of how a SQL data warehouse can be designed and built with ETL processing.
+This mini project will provide an example of how a SQL data warehouse can be designed and built with ETL processing.
 
 
 ## Objective
