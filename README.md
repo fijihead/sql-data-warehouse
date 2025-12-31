@@ -44,6 +44,3 @@ This project will provide an example of how a SQL data warehouse can be designed
 
 ## License
 MIT License - see (LICENSE) files.
-
-## About Me
-This project is part of my data analytics portfolio, demonstrating skills in SQL, data modeling, and business intelligence.
